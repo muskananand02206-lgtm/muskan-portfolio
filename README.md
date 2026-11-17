@@ -22,3 +22,4 @@ A responsive, typography-led portfolio website built with HTML, CSS and a small 
 
 ## Before submission
 Review all education/course naming and project descriptions for accuracy. Add project evidence or links only where available. Do not add private information.
+Portfolio website published using GitHub Pages
